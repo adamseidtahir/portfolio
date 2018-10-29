@@ -1,0 +1,61 @@
+
+body {
+  
+  background-color: black;
+  
+}
+
+.background {
+  position: absolute;
+  z-index: -1;
+}
+  
+.ringar {
+  position: absolute;
+  z-index: 1;
+  top: 64%;
+  left: 36.5%;
+  width: 6.2%;
+}
+
+.mask{
+  position: absolute;
+  z-index: 1;
+  top: 46.8%;
+  left: 45.1%;
+  width: 23.5%;
+
+}
+
+.nipple {
+  position: absolute;
+  z-index: 1;
+  top: 42.5%;
+  left: 86.5%;
+  width: 10%;
+}
+
+.armband{
+  position: absolute;
+  z-index: 1;
+  left:54.4%;
+  top: 15%;
+  width: 9%;
+}
+
+.ringar:hover {
+  opacity: 0.5;
+}
+
+.mask:hover {
+  opacity: 0.5;
+}
+
+.nipple:hover {
+  opacity: 0.5;
+}
+
+.armband:hover {
+  opacity: 0.5;
+}
+  
